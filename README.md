@@ -15,7 +15,7 @@ Get involved in the Battlesnake community!
 
 ### Technologies
 
-This Battlesnake uses [Ruby 2.7](https://www.ruby-lang.org/), and [Heroku](https://heroku.com).
+This Battlesnake uses [Ruby 3.4.6](https://www.ruby-lang.org/), and [Heroku](https://heroku.com).
 
 ### Prerequisites
 
@@ -165,7 +165,7 @@ Arenas will regularly create new games and rank Battlesnakes based on their resu
 
 ## (Optional) Running Your Battlesnake Locally
 
-Eventually you might want to run your Battlesnake server locally for faster testing and debugging. You can do this by installing [Ruby 2.7](https://www.ruby-lang.org/en/) then install dependecies using [bundler](https://bundler.io/#getting-started):
+Eventually you might want to run your Battlesnake server locally for faster testing and debugging. You can do this by installing [Ruby 3.4.6](https://www.ruby-lang.org/en/) then install dependecies using [bundler](https://bundler.io/#getting-started):
 
 ```shell
 bundle install

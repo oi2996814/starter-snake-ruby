@@ -1,7 +1,9 @@
 source 'https://rubygems.org'
 
-ruby '2.7.6'
 gem 'sinatra'
 gem 'json'
 gem 'rack-contrib'
 gem 'activesupport'
+
+gem "rackup", "~> 2.2"
+gem "puma", "~> 7.0"
